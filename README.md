@@ -10,8 +10,8 @@ An end-to-end data science project using Netflix data enriched with TMDB API.
 - ETL pipeline: cleaned 8,800+ Netflix titles + enriched with TMDB API
 - EDA: 9 charts revealing content trends across 190+ countries
 - ML Model 1: Content-based recommender (TF-IDF + Cosine Similarity)
-- ML Model 2: Popularity predictor (Random Forest, R²=0.XX)
-- ML Model 3: Genre classifier (Logistic Regression, XX% accuracy)
+- ML Model 2: Popularity predictor (Random Forest, R²=0.188)
+- ML Model 3: Genre classifier (Logistic Regression, 50.3% accuracy)
 - Tableau: 3 interactive dashboards
 
 ## Tech Stack
